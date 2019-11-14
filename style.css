@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Karla|Lobster&display=swap");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Karla', sans serif;
+	font-size: 25px;
+	background-color: rgb(255, 174, 0);
+	margin: 0px;
+	background-size: cover;
+	align-content: center;
+}
+h1{
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+}
+h2{
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+}
+h3{
+	font-family: 'Karla', cursive;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
